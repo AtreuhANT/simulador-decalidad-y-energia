@@ -1,4 +1,4 @@
-#PAGINA DEL PROYECTO DE METODOS NUMERICOS:
+# PAGINA DEL PROYECTO DE METODOS NUMERICOS:
 
 https://atreuhant.github.io/simulador-decalidad-y-energia/
 
