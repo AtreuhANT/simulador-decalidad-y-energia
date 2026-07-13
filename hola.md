@@ -2,7 +2,7 @@
 
 https://atreuhant.github.io/simulador-decalidad-y-energia/
 
-Para observar la pág, dale clic en el 
+Para observar la pág dale clic en el 
 **link** 
 despues darle clic en 
 **ejemplo** 
