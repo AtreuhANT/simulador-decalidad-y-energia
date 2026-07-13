@@ -2,7 +2,13 @@
 
 https://atreuhant.github.io/simulador-decalidad-y-energia/
 
-Para observar la pág, dale clic en el **link** despues darle clic en **ejemplo** y finalmente en **Procesar analisis electrico** para observar las graficas.
+Para observar la pág, dale clic en el 
+**link** 
+despues darle clic en 
+**ejemplo** 
+y finalmente en 
+**Procesar analisis electrico**
+para observar las graficas.
 
 DESARROLLADO POR:
 
