@@ -6,8 +6,8 @@ Para observar la pág, dale clic en SigQA_Portable y luego darle clic en ejemplo
 
 DESARROLLADO POR:
 
-Ruiz Escobar, Johen
-  Huerta Santana, Sergio
+Huerta Santana, Sergio
+  Ruiz Escobar, Johen
     Chauca Zarate, Daniel
       Oyola Curay, Sthefano
 
