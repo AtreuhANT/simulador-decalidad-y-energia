@@ -6,11 +6,11 @@ Para observar la pág, dale clic en SigQA_Portable y luego darle clic en ejemplo
 
 DESARROLLADO POR:
 
-| Huerta Santana, Sergio
+    | Huerta Santana, Sergio
 
-  | Ruiz Escobar, Johen
+      | Ruiz Escobar, Johen
   
-    | Chauca Zarate, Daniel
+        | Chauca Zarate, Daniel
     
-      | Oyola Curay, Sthefano
-
+          | Oyola Curay, Sthefano
+  
